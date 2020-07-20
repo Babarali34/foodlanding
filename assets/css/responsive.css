@@ -1,0 +1,56 @@
+@media  (max-width: 768px) {
+                
+
+              .best_tasty {text-align:center;}  
+           .best_tasty .tasty_img img
+                         {width:200px;}
+	         .static-meus
+           { margin-top:10px; }
+
+            .best_tasty .icon3
+                 {margin-left:50%;position:absolute;margin-top:60px;}
+           .best_tasty .icon3 img{width:70px;}
+
+            .tasty_img img {margin-top:10px;}
+
+            .slidar-data
+           {text-align:center;padding:0 10px;}
+
+
+           .subscriber_form{height:600px;}
+
+           .subscriber_form .form-data
+             {padding:10px 10px;color:var(--main-coloor);}
+             
+             .subscriber_form .icon2
+                     {position:absolute;left:80%;}
+
+                       .icon1 img
+                       {width:40px;}
+
+                        .icon2 img
+                       {width:40px;}
+
+                        .icon3 img
+                       {width:40px;}
+
+             .subscriber_form .icon3
+            {position:absolute;left:30%;margin-top:50px;}
+
+            .input-group
+                      {width:90%;margin:auto;}
+
+                      .submit 
+                     {padding:8px 10px;}
+
+               .footer .icon1
+              { position:absolute;left:60%;margin-top:-200px; }
+
+               .footer .icon1 img
+              {  width:40px;}
+
+                .footer {text-align:center;}
+
+  }
+					
+			 
